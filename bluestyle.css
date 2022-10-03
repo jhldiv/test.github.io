@@ -2,11 +2,11 @@ body {
     background-color: rgb(9, 47, 16);
     }
     
-    h1 {
+    h1, h3 {
     color: brown;
     margin-left: 20px;
     }
 
-    p {
+    p, strong {
         color: wheat;
     }
